@@ -1,1 +1,1 @@
-print("Hello teacher!")
+Изменили в newbranch для конфликта
